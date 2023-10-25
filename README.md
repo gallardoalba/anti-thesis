@@ -1,13 +1,7 @@
-### Template for creating slides in reveal.js
+### References
 
-The reveal.js framework comes with a broad range of features including nested slides, Markdown support, PDF export, speaker notes, LaTeX support and syntax highlighted code.
+Feyerabend, P. (2020). Against method: Outline of an anarchistic theory of knowledge. Verso Books.
 
-You can find the full documentation about the features it provides in [revealjs.com](https://revealjs.com/). 
+Lefebvre, H. (1981). Logique formelle, logique dialectique. Terrains, Editions Sociales.
 
-Keyboard shortcuts
-- CAPSLOCK: laser pointer
-- SPACE: move betwee slides
-- Key O: slides overview
-- Key S: speaker notes
-- Key F: full screen
-- Key M: contents menu
+Levins, R., & Lewontin, R. (1985). The dialectical biologist. Harvard University Press.
