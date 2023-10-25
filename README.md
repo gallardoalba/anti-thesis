@@ -1,4 +1,8 @@
-Introductory slides to dialectical logic, and its application to the life sciences. The content was largely inspired by "The dialectical biologist", a book published by the ecologist Richard Levins and the biologist Richard Lewontin. This work aimed to illustrate an approach to biology which emphasizes the relationship between the organism, its development,and the environment, providing an alternative view to the one provided by “mechanistic” and “reductionist” paradigms.
+Introductory slides to dialectical logic, and its application to the life sciences. The content was largely inspired by "[The dialectical biologist](https://www.hup.harvard.edu/catalog.php?isbn=9780674202832)", a book published by the ecologist Richard Levins and the biologist Richard Lewontin. 
+
+These slides are intended to illustrate an approach to biology that emphasizes the relationship between the organism, its development and the environment, providing an alternative view to that offered by mechanistic and reductionist paradigms.
+
+Dedicated to all those who showed no interest in this work.
 
 ### References
 
