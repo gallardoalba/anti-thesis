@@ -1,12 +1,12 @@
-<img src="img/Anti-thesis-01.png">
+<section data-background="img/Anti-thesis-01.png">
 
 ---
 
-<img src="img/Anti-thesis-02.png">
+<section data-background="img/Anti-thesis-02.png">
 
 ---
 
-<img src="img/Anti-thesis-03.png">
+<section data-background="img/Anti-thesis-03.png">
 
 ---
 
